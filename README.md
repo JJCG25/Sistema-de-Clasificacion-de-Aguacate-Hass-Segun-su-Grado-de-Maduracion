@@ -1,5 +1,8 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración Mediante Deep Learning
 
+![Banner](https://github.com/user-attachments/assets/8d8f0e05-0a95-4026-b2d1-359ee825ae61)
+
+
 ## Autores: Juan Calderón, Santiago Ortega, Marian Becerra
 
 ### Objetivo: 
