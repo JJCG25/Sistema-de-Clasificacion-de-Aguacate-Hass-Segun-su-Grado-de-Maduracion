@@ -15,5 +15,3 @@ Disponible en el presente enlace: https://data.mendeley.com/datasets/3xd9n945v8/
 ### Código:
 
 ### Video:
-
-### Repositorio:
