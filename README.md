@@ -1,6 +1,6 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
-[](https://github.com/user-attachments/assets/ccc6dd0d-db35-4f88-947a-46c1d97a52a9)
+![](https://github.com/user-attachments/assets/ccc6dd0d-db35-4f88-947a-46c1d97a52a9)
 
 )
 
