@@ -1,6 +1,7 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
-![Agregar un título(1)](https://github.com/user-attachments/assets/a3c7f9e8-a51a-47ff-ae69-8c571331ad22)
+![Agregar un título(1)]((https://github.com/user-attachments/assets/4241629f-069b-4837-ade0-cb3b01af6738)
+)
 
 ## Autores: Juan Calderón, Santiago Ortega, Marian Becerra
 
@@ -11,6 +12,7 @@ Desarrollar e implementar un sistema automatizado basado en técnicas de deep le
 Disponible en el presente enlace: https://data.mendeley.com/datasets/3xd9n945v8/1 
 
 ### Modelos:
+Aplicando reducción de dimensionalidad con PCA, en nuestro proyecto probamos Gaussian Naive Bayes como modelo inicial; comparamos RandomTreeClassifier y Random Forest para evaluar un árbol único frente a un conjunto de árboles; usamos Support Vector Machine para clasificación; y aplicamos K-Means para análisis de agrupamiento de los datos. De este modo identificamos el método que funcionó mejor en términos de precisión y eficiencia.
 
 ### Código:
 
