@@ -1,6 +1,6 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
-![](https://github.com/tu-usuario/AguacateHass/raw/main/IA Avocado Banner.png)
+![](https://github.com/tu-usuario/AguacateHass/raw/main/IA_Avocado_Banner.png)
 
 )
 
