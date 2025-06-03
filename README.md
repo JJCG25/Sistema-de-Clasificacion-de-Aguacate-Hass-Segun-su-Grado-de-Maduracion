@@ -17,7 +17,5 @@ Disponible en el presente enlace: https://data.mendeley.com/datasets/3xd9n945v8/
 Aplicando reducción de dimensionalidad con PCA, en nuestro proyecto probamos Gaussian Naive Bayes como modelo inicial; comparamos RandomTreeClassifier y Random Forest para evaluar un árbol único frente a un conjunto de árboles; usamos Support Vector Machine para clasificación; y aplicamos K-Means para análisis de agrupamiento de los datos. De este modo identificamos el método que funcionó mejor en términos de precisión y eficiencia.
 
 ### Código:
-Puedes ver el código principal en [main.py](https://github.com/JJCG25/Sistema-de-Clasificacion-de-Aguacate-Hass-Segun-su-Grado-de-Maduracion)
-
-/blob/main/SistemaAguacateHass_Final.ipynb)
+Puedes ver el código principal en [SistemaAguacateHass_Final.ipynb](https://github.com/JJCG25/Sistema-de-Clasificacion-de-Aguacate-Hass-Segun-su-Grado-de-Maduracion/blob/main/SistemaAguacateHass_Final.ipynb)
 ### Video:
