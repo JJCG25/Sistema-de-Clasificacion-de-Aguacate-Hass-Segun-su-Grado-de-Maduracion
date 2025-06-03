@@ -1,6 +1,7 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
-![Agregar un título(1)]((https://github.com/user-attachments/assets/4241629f-069b-4837-ade0-cb3b01af6738)
+![Agregar un título(1)]![IA Avocado Banner](https://github.com/user-attachments/assets/ccc6dd0d-db35-4f88-947a-46c1d97a52a9)
+
 )
 
 ## Autores: Juan Calderón, Santiago Ortega, Marian Becerra
