@@ -1,8 +1,7 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
-![](https://github.com/tu-usuario/AguacateHass/raw/main/IA_Avocado_Banner.png)
+![Banner del proyecto](https://raw.githubusercontent.com/tu-usuario/AguacateHass/main/IA_Avocado_Banner.png)
 
-)
 
 ## Autores: Juan Calderón, Santiago Ortega, Marian Becerra
 
