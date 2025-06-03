@@ -1,4 +1,4 @@
-# Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración Mediante Deep Learning
+# Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
 ![Agregar un título(1)](https://github.com/user-attachments/assets/a3c7f9e8-a51a-47ff-ae69-8c571331ad22)
 
