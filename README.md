@@ -1,6 +1,8 @@
 # Sistema de Clasificación de Aguacate Hass Según su Grado de Maduración 
 
-![Banner del proyecto](https://raw.githubusercontent.com/JJCG25/Sistema-de-Clasificacion-de-Aguacate-Hass-Segun-su-Grado-de-Maduracion/main/IA_Avocado_Banner.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JJCG25/Sistema-de-Clasificacion-de-Aguacate-Hass-Segun-su-Grado-de-Maduracion/main/IA_Avocado_Banner.png" alt="Banner del proyecto" />
+</div>
 
 
 ## Autores: Juan Calderón, Santiago Ortega, Marian Becerra
